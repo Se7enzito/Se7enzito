@@ -1,6 +1,3 @@
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardocastro___/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-gomes-32adb3423/)
-
 ## About me:
 
 👨‍💻 I started my study journey in 2018, initially focusing on Java (Java Spigot) and Web Development. 
