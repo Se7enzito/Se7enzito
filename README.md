@@ -34,7 +34,6 @@
 
 ## 📌 Projetos em Destaque
 - 💬 **CommentSentimentAPI → Sentilytics** — Ferramenta de análise de sentimentos em comentários, capaz de classificar emoções e identificar padrões de opinião para insights mais profundos.
-- 🛡 **ThreatGuardianAPI → ThreatGuardian AI** — Sistema inteligente de monitoramento e detecção de ameaças cibernéticas, com resposta proativa e análise em tempo real.
 - ⌨️ **O6SHerosRPG → Minecraft RPG** — Sistema de um plugin de RPG para o jogo Minecraft.
 - Novos projetos a caminho...
 ---
