@@ -35,7 +35,13 @@
 ## 📌 Projetos em Destaque
 - 💬 **CommentSentimentAPI → Sentilytics** — Ferramenta de análise de sentimentos em comentários, capaz de classificar emoções e identificar padrões de opinião para insights mais profundos.
 - ⌨️ **O6SHerosRPG → Minecraft RPG** — Sistema de um plugin de RPG para o jogo Minecraft.
+- **O6SVender → Minecraft Market** —
+- **O6SBaazar → Minecraft Baazar** — 
+- **Auto-BOCA → Automação BOCA** — 
+- **Brazilian Utils Java → Brazilian Utils** — 
 - Novos projetos a caminho...
+## Orgs e Startups
+- **Código com Propósito**
 ---
 
 ## 🌍 Vamos nos conectar!
