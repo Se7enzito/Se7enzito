@@ -33,15 +33,18 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 💬 **CommentSentimentAPI → Sentilytics** — Ferramenta de análise de sentimentos em comentários, capaz de classificar emoções e identificar padrões de opinião para insights mais profundos.
-- ⌨️ **O6SHerosRPG → Minecraft RPG** — Sistema de um plugin de RPG para o jogo Minecraft.
-- **O6SVender → Minecraft Market** —
-- **O6SBaazar → Minecraft Baazar** — 
-- **Auto-BOCA → Automação BOCA** — 
-- **Brazilian Utils Java → Brazilian Utils** — 
+- **CommentSentimentAPI → Sentilytics** — Ferramenta de análise de sentimentos em comentários, capaz de classificar emoções e identificar padrões de opinião para insights mais profundos.
+- **O6SHerosRPG → Minecraft RPG** — Sistema de um plugin de RPG para o jogo Minecraft.
+- **O6SVender → Minecraft Market** — Sistema de um plugin de vendas para o jogo Minecraft.
+- **O6SBaazar → Minecraft Baazar** — Sistema de um plugin de baazar para o jogo Minecraft | Inspirado no sistema do Skyblock do Hypixel.
+- **Auto-BOCA → Automação BOCA** — Sistema para resolver de maneira automática exercícios que forem colocados no BOCA da Universidade Federal de São João Del Rei (UFSJ).
+- **Brazilian Utils Java → Brazilian Utils** — Sistema para trazer a Brazilian Utils para o Java que é uma linguagem tão utilizada no mundo e no Brasil.
 - Novos projetos a caminho...
-## Orgs e Startups
-- **Código com Propósito**
+
+---
+  
+## Projetos Sociais e Startups
+- **Código com Propósito → Projeto Social** - Projeto social onde buscamos o fácil acesso as informações do mundo da técnologia para todos, ajudar nas causas sociais que temos pelo Brasil e também levar o ensino de técnologia para todos. 
 ---
 
 ## 🌍 Vamos nos conectar!
